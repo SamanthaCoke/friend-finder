@@ -117,7 +117,7 @@ let friends = [
             2,
             1
           ]
-        },
-      
-      
+        }     
 ]
+
+module.exports = friends;
